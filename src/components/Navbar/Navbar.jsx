@@ -129,7 +129,7 @@ const Navbar = ()=> {
 {/* 
          mobile menu Icon */}
 
-<div className='md:hidden'>
+<div className='md:hidden  '>
   {isOpen ? (
     <FiX
       className='text-3xl text-[#8245ec] cursor-pointer'

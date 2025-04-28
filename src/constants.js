@@ -65,7 +65,7 @@ export const SkillsInfo = [
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Redux', logo: reduxLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
-      { name: 'GSAP', logo: gsapLogo },
+     
       { name: 'Material UI', logo: materialuiLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
     ],
@@ -75,7 +75,7 @@ export const SkillsInfo = [
     skills: [
     
       { name: 'MySQL', logo: mysqlLogo },
-      { name: 'PostgreSQL', logo: postgreLogo },
+      { name: 'Postgre SQL', logo: postgreLogo },
     ],
   },
   {
